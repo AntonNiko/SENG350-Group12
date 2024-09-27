@@ -1,2 +1,2 @@
-python-socketio == 4.6.0
-gevent == 20.9.0
+python-socketio
+gevent
